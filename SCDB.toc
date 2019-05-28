@@ -1,0 +1,13 @@
+## Interface: 80100
+## Title: |cff00ccffShadow Collective Database|r
+## Notes: |cFF7F7FFFGuild Database for The Shadow Collective|r (Version: 1.0.0)
+## Version: 1.0.0
+## Author: Goataraz
+## Email: shadowcollectivekor@gmail.com
+## Discord: https://discord.gg/czpQSKw  @Goataraz#0267
+## SavedVariables: SCDB
+## DefaultState: enabled
+
+## AddOn Files ##
+
+core\SCDB.lua
